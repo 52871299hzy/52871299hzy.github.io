@@ -5,10 +5,10 @@
     
     <entry>
       <title>Hello World on my Hexo Blog</title>
-      <link href="/2099/01/01/hello-world/"/>
-      <url>/2099/01/01/hello-world/</url>
+      <link href="/2023/10/24/hello-world/"/>
+      <url>/2023/10/24/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>从高中开始想搞的博客，咕了5年终于想起来做了。如你所见这是一个 retro 风格的主题，虽然只是表面上 retro ，但是我之后应该会做一个纯<code>html</code>，没有任何<code>js</code>和<code>css</code>的分站。</p><p>现在还没想好这里要写什么，想到了再说。首先排除课程笔记。</p>]]></content>
+        <content type="html"><![CDATA[<p>从高中开始想搞的博客，咕了5年终于想起来做了。如你所见这是一个 retro 风格的主题，虽然只是表面上 retro ，但是我之后应该会做一个纯<code>html</code>，没有任何<code>js</code>和<code>css</code>的分站。</p><p>现在还没想好这里要写什么，想到了再说。首先排除课程笔记。</p><p>此帖也用作本站的 Changelog.</p>]]></content>
       
       
       
